@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
+from selenium.webdriver.common.by import By #wercz tu jest
 
 def login_to_brand24(username, password):
 
